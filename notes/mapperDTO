@@ -1,0 +1,6 @@
+mapStruct is a code generator that simplifies the implementation between Java bean types
+
+MapStruct is plugged into the Java compiler and can automatically generate mappers at build time.
+
+a mapStruct mapper is an interface or an abstract class anootated with @Mapper
+( this annotation help to generate a working an implementation of this java file at build-time)
